@@ -1,6 +1,6 @@
 # Dauren Amanbayev — Senior DevOps Engineer
 
-> 12+ years in infrastructure | AWS · GCP · Azure · Kubernetes · Terraform
+> 12+ years in infrastructure | Automation · Observability · AWS · GCP · Azure · Kubernetes · Docker · Terraform · Ansible
 
 ## 🔧 Stack
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
