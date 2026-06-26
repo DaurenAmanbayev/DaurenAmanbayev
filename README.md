@@ -20,7 +20,7 @@
 | [container-practice](https://github.com/DaurenAmanbayev/container-practice) | K8s full stack: EKS, GKE, ArgoCD, HPA, Prometheus | K8s, Helm, ArgoCD, AWS, GCP |
 | [k8s-gitops-demo](link) | GitOps workflow with ArgoCD selfHeal | ArgoCD, GitHub Actions |
 | [gcp-github-actions-practice](https://github.com/DaurenAmanbayev/gcp-github-actions-practice) | GCP deployment via GitHub Actions | GCP, CI/CD |
-| [cicd-pipeline](https://github.com/DaurenAmanbayev/cicd-pipeline) | CI/CD pipeline with quality gates | Jenkins, Docker |
+| [Cisco-Config-Backup-Collector](https://github.com/DaurenAmanbayev/Cisco-Config-Backup-Collector)| Remote Telnet and SSH command executor, configs backup downloads | EntityFramework, .Net, SSH, Telnet, T-SQL |
 
 ## 🏆 Highlight
 Reverse engineered a vendor monitoring system →  proved undisclosed ClickHouse 19.x core →  executed test migration to v25.8
