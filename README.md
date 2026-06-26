@@ -23,8 +23,8 @@
 | [Cisco-Config-Backup-Collector](https://github.com/DaurenAmanbayev/Cisco-Config-Backup-Collector)| Remote Telnet and SSH command executor, configs backup downloads | C#, EntityFramework, .Net, SSH, Telnet, T-SQL |
 
 ## 🏆 Highlight
-Reverse engineered a vendor monitoring system →  proved undisclosed ClickHouse 19.x core →  executed test migration to v25.8
-Developing and integrating AI-assisted network diagnostic tools into monitoring systems to automate incident troubleshooting and accelerate root cause analysis (RCA)
-Developed and open-sourced mib2vrl, a CLI tool written in Python for parsing SNMP traps from MIB files or Netcool rules and converting them into Vector Remap Language (VRL) configurations for Vector
+* Reverse engineered a vendor monitoring system →  proved undisclosed ClickHouse 19.x core →  executed test migration to v25.8
+* Developing and integrating AI-assisted network diagnostic tools into monitoring systems to automate incident troubleshooting and accelerate root cause analysis (RCA)
+* Developed and open-sourced mib2vrl, a CLI tool written in Python for parsing SNMP traps from MIB files or Netcool rules and converting them into Vector Remap Language (VRL) configurations for Vector
 
 ## 📍 Astana, KZ · Open to remote
